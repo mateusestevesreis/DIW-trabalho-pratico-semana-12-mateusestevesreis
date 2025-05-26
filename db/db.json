@@ -1,18 +1,58 @@
 {
-  "usuarios": [
+  "contatos": [
     {
-      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
+      "id": "1",
+      "nome": "Marcelo Pires de Assis",
+      "telefone": "11123456789",
+      "email": "marcelopires@gmail.com",
+      "cidade": "Betim",
+      "categoria": "cliente",
+      "website": "marcelopires.com"
     },
     {
-      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
+      "id": "2",
+      "nome": "Renata Martinho Gozaga",
+      "telefone": "12123456789",
+      "email": "renatamartinhogzg@gmail.com",
+      "cidade": "Uberlândia",
+      "categoria": "trabalho",
+      "website": "marcelopires.com"
+    },
+    {
+      "nome": "Mateus Esteves Reis",
+      "telefone": "31988432638",
+      "email": "mateusestevesreis@gmail.com",
+      "cidade": "Contagem",
+      "categoria": "Empresa",
+      "website": "mtsdesigner.com",
+      "id": "3"
+    },
+    {
+      "id": "b680",
+      "nome": "Elaine Esteves Pinheiro",
+      "telefone": "31988518057",
+      "email": "elaineestevespinheiro@gmail.com",
+      "cidade": "Irecê",
+      "categoria": "Família",
+      "website": "elainejb.org"
+    },
+    {
+      "id": "e8dc",
+      "nome": "Geane Esteves Pinheiro",
+      "telefone": "31988518055",
+      "email": "geaneestevespinheiro@gmail.com",
+      "cidade": "Contagem",
+      "categoria": "Família",
+      "website": "geaneesteves.org"
+    },
+    {
+      "id": "ab55",
+      "nome": "Manoel Missias Reis",
+      "telefone": "31988518059",
+      "email": "manoelmissiasreis@gmail.com",
+      "cidade": "Contagem",
+      "categoria": "Família",
+      "website": "gcengenharia.com"
     }
   ]
 }
